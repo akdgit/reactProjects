@@ -13,7 +13,7 @@ function App() {
       </div>
       <div className="tareas-lista-principal">
         <h1>Mis Tareas</h1>
-        <Tarea texto = "Ver Las Grandes Ligas 5:55." />
+        <Tarea texto = "Subir a git los cambios 5:55." />
       </div>
     </div>
   );
