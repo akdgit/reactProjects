@@ -1,6 +1,8 @@
 import './App.css';
 import paginaLogo from "./imagenes/programat-logo3.jpg";
-import Tarea from "./componentes/Tarea";
+//import Tarea from "./componentes/Tarea"; Se colocaba {Tarea texto="tarea"}
+//import TareaFormulario from './componentes/TareaFormulario'; Se colocaba <TareaFormulario/>
+import ListaDeTareas from './componentes/ListaDeTareas';
 
 function App() {
   return (
@@ -13,7 +15,7 @@ function App() {
       </div>
       <div className="tareas-lista-principal">
         <h1>Mis Tareas</h1>
-        <Tarea texto = "Subir a git los cambios 5:55." />
+        <ListaDeTareas />
       </div>
     </div>
   );

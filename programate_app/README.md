@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### dependencies installed for this project
+'npm install react-icon' to download close icon for each task listed.
+The documentation is in the following web site: 'https://react-icons.github.io/react-icons/search/#q=aioutlineclosecircle'´
+In this web you will find any icon for the project, using the search tool available in the page.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
