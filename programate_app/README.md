@@ -19,6 +19,8 @@ You may also see any lint errors in the console.
 The documentation is in the following web site: 'https://react-icons.github.io/react-icons/search/#q=aioutlineclosecircle'´
 In this web you will find any icon for the project, using the search tool available in the page.
 
+"npm install uuid" to handle the tasks ID. Identifiers allow to manage tasks created by the users. 
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
